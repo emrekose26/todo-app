@@ -1,0 +1,23 @@
+#login-form{
+	display: table;
+	margin: 90px auto;
+	width: 500px;
+}
+form label{
+	color:#fff;
+}
+.form-horizontal{
+	height: 500px;
+	background-color: #394264;
+	padding: 130px 50px 30px 50px;
+	border-radius: 15px;
+	position: relative;
+}
+.form-horizontal img{
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	left: 180px;
+	top:-40px;
+	border-radius:15px;
+}
